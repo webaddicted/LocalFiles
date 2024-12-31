@@ -1,7 +1,5 @@
 Privacy Policy
 
-
-
 Thank you for using the Flutter Hive Learning App ("the App"). This privacy policy outlines in comprehensive detail how we handle your information and maintain a secure, private experience for our users. The App is specifically designed to function without collecting personal data, ensuring user anonymity and data privacy at all times.
 
 1. Information We Collect
